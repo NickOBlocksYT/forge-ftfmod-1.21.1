@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ftfmod:block/cobbled_nicite"
+  }
+}
