@@ -3,5 +3,7 @@
   "item.ftfmod.nicite_clump": "Clump of Nicite",
 
   "block.ftfmod.nickcoin_pile": "Pile of Nick Coins",
-  "block.ftfmod.cobbled_nicite": "Cobbled Nicite"
+  "block.ftfmod.cobbled_nicite": "Cobbled Nicite",
+
+  "creativetab.ftfmod.nick_stuff": "Nicks Stuff"
 }

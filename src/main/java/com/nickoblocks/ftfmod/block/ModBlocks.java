@@ -26,7 +26,9 @@ public class ModBlocks {
                     .strength(5f).sound(SoundType.COPPER)));
     public static final RegistryObject<Block> COBBLED_NICITE = registerBlock("cobbled_nicite",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .strength(3f).sound(SoundType.STONE)));
+                    .strength(3f)
+                    .sound(SoundType.STONE)
+            ));
 
 
 
