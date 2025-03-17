@@ -23,6 +23,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.NICITE_CLUMP.get());
                         output.accept(ModBlocks.COBBLED_NICITE.get());
                         output.accept(ModBlocks.NICKCOIN_PILE.get());
+                        output.accept(ModItems.HAZELNUT.get());
 
                     }).build());
 

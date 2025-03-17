@@ -15,6 +15,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> NICITE_CLUMP = ITEMS.register("nicite_clump",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> HAZELNUT = ITEMS.register("hazelnut",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

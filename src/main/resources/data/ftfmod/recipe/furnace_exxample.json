@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 75,
+  "experience": 999,
+  "ingredient": {
+    "item": "ftfmod:nicite_clump"
+  },
+  "result": {
+    "id": "ftfmod:nickcoin"
+  }
+}
